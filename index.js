@@ -4,7 +4,7 @@ class Person {
     }
 
     hello() {
-        console.log(`hello I'm ${this.name}`)
+        console.log(`Hello I'm ${this.name}`)
     }
 
     init() {
